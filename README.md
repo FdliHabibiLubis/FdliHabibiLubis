@@ -40,8 +40,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FdliHabibiLubis&theme=algolia" width="48%" />
-<img src="https://ghchart.rshah.org/22C55E/FdliHabibiLubis" width="48%" alt="Kalender Kontribusi GitHub" />
+<img src="https://ghchart.rshah.org/22C55E/FdliHabibiLubis" width="80%" alt="Kalender Kontribusi GitHub" />
 
 </div>
 
