@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FdliHabibiLubis&show_icons=true&hide=issues,contribs&hide_rank=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=FdliHabibiLubis&show_icons=true&hide=issues,contribs&hide_rank=true&theme=chartreuse-dark&hide_border=true&count_private=true&cache_seconds=86400" width="60%" />
 
 <br><br>
 
