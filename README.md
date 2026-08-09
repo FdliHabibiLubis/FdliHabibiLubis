@@ -1,57 +1,76 @@
-# Design Doc — GitHub Profile README
+<div align="center">
 
-Sumber konten: [fadlihabibi.my.id](https://www.fadlihabibi.my.id/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:22C55E&height=200&section=header&text=Fadli%20Habibi%20Lubis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer&descAlignY=58&descSize=18" />
 
-## 1. Identitas & Tujuan
-- **Nama**: Fadli Habibi Lubis
-- **Role**: Frontend Web Developer / Mahasiswa Rekayasa Perangkat Lunak
-- **Tagline**: Fokus membangun antarmuka web yang cepat, responsif, dan ramah pengguna
-- **Lokasi**: Medan, Indonesia
-- **Bahasa**: ID & EN
-- **Tujuan profil**: Menampilkan portofolio proyek, tech stack, dan kontak untuk peluang kolaborasi/kerja
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Mahasiswa+Rekayasa+Perangkat+Lunak;Frontend+Web+Developer;Membangun+UI+cepat%2C+responsif%2C+ramah+pengguna" alt="Typing SVG" />
 
-## 2. Konsep Visual
-- **Tema**: Light, clean, minimalis, presisi — selaras dengan gaya portofolio (theme color `#ffffff`)
-- **Gaya badge**: flat / for-the-badge, warna netral agar senada dengan tema terang
-- **Aksen**: monokrom dengan satu warna aksen (opsional, mengikuti identitas "FADLI.")
-- **Statistik singkat** (dari portofolio):
-  - 6+ Proyek Selesai
-  - 1+ Tahun Belajar
-  - 7+ Teknologi
+<br><br>
 
-## 3. Struktur Konten (urutan section)
+<a href="https://www.fadlihabibi.my.id/"><img src="https://img.shields.io/badge/Website-0F766E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:habibifadli682@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/fdlilbs.23"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-### a. Header / Intro
-> Halo, saya Fadli Habibi Lubis — Mahasiswa Rekayasa Perangkat Lunak, fokus membangun antarmuka web yang cepat, responsif, dan ramah pengguna.
+</div>
 
-### b. Tentang Saya
-- Pendidikan: Rekayasa Perangkat Lunak
-- Posisi: Frontend Dev
-- Lokasi: Medan, Indonesia
+<br>
 
-### c. Tech Stack (dari halaman Keahlian)
-- JavaScript
-- PostgreSQL
-- Flutter
-- Dart
-- Figma
-- Canva
+## 🧑‍💻 Tentang Saya
 
-### d. GitHub Stats
-- Stats card + top languages (github-readme-stats)
-- Streak counter (opsional)
+<img align="right" width="320" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/typing-cat.gif" />
 
-### e. Kontak
-- GitHub: [FdliHabibiLubis](https://github.com/FdliHabibiLubis)
-- Instagram: [fdlilbs.23](https://www.instagram.com/fdlilbs.23)
-- Email: habibifadli682@gmail.com
-- Website: [fadlihabibi.my.id](https://www.fadlihabibi.my.id/)
+- 🎓 **Pendidikan:** Rekayasa Perangkat Lunak, Universitas Potensi Utama
+- 💼 **Posisi:** Frontend Developer
+- 📍 **Lokasi:** Medan, Indonesia
+- 🌐 **Bahasa:** ID & EN
+- ⚡ **6+** Proyek Selesai &nbsp;·&nbsp; **1+** Tahun Belajar &nbsp;·&nbsp; **7+** Teknologi
 
-## 4. Komponen Teknis
-- Badge: shields.io (style: for-the-badge atau flat)
-- Stats card: github-readme-stats
-- Struktur tabel proyek pakai Markdown table (lebih ringan dari HTML)
-- Opsional: typing SVG untuk tagline animasi di header
+<br clear="right"/>
 
-## 5. Referensi
-- Website pribadi: https://www.fadlihabibi.my.id/
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=FdliHabibiLubis&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FdliHabibiLubis&layout=compact&theme=chartreuse-dark&hide_border=true" width="30%" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=FdliHabibiLubis&theme=highcontrast&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" width="80%" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FdliHabibiLubis&theme=react-dark&hide_border=true&color=22C55E&line=0F766E" width="90%" />
+
+</div>
+
+<br>
+
+## 📫 Kontak
+
+<div align="center">
+
+<a href="https://github.com/FdliHabibiLubis"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.instagram.com/fdlilbs.23"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:habibifadli682@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.fadlihabibi.my.id/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0F766E&height=100&section=footer" />
+
+</div>
