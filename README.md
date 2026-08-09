@@ -8,7 +8,7 @@
 
 <a href="https://www.fadlihabibi.my.id/"><img src="https://img.shields.io/badge/Website-0F766E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:habibifadli682@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.instagram.com/fdlilbs.23"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/rfdli23"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
 
