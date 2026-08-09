@@ -1,66 +1,57 @@
-<div align="center">
+# Design Doc — GitHub Profile README
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=222222&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Fadli+Habibi+Lubis;Mahasiswa+Rekayasa+Perangkat+Lunak;Frontend+Web+Developer" alt="Typing SVG" />
+Sumber konten: [fadlihabibi.my.id](https://www.fadlihabibi.my.id/)
 
-<p>
-Fokus membangun antarmuka web yang <b>cepat</b>, <b>responsif</b>, dan <b>ramah pengguna</b>.
-</p>
+## 1. Identitas & Tujuan
+- **Nama**: Fadli Habibi Lubis
+- **Role**: Frontend Web Developer / Mahasiswa Rekayasa Perangkat Lunak
+- **Tagline**: Fokus membangun antarmuka web yang cepat, responsif, dan ramah pengguna
+- **Lokasi**: Medan, Indonesia
+- **Bahasa**: ID & EN
+- **Tujuan profil**: Menampilkan portofolio proyek, tech stack, dan kontak untuk peluang kolaborasi/kerja
 
-<a href="https://www.fadlihabibi.my.id/"><img src="https://img.shields.io/badge/Website-fadlihabibi.my.id-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:habibifadli682@gmail.com"><img src="https://img.shields.io/badge/Email-habibifadli682%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.instagram.com/fdlilbs.23"><img src="https://img.shields.io/badge/Instagram-fdlilbs.23-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+## 2. Konsep Visual
+- **Tema**: Light, clean, minimalis, presisi — selaras dengan gaya portofolio (theme color `#ffffff`)
+- **Gaya badge**: flat / for-the-badge, warna netral agar senada dengan tema terang
+- **Aksen**: monokrom dengan satu warna aksen (opsional, mengikuti identitas "FADLI.")
+- **Statistik singkat** (dari portofolio):
+  - 6+ Proyek Selesai
+  - 1+ Tahun Belajar
+  - 7+ Teknologi
 
-</div>
+## 3. Struktur Konten (urutan section)
 
-<br>
+### a. Header / Intro
+> Halo, saya Fadli Habibi Lubis — Mahasiswa Rekayasa Perangkat Lunak, fokus membangun antarmuka web yang cepat, responsif, dan ramah pengguna.
 
-## 🧑‍💻 Tentang Saya
+### b. Tentang Saya
+- Pendidikan: Rekayasa Perangkat Lunak
+- Posisi: Frontend Dev
+- Lokasi: Medan, Indonesia
 
-- 🎓 Pendidikan: **Rekayasa Perangkat Lunak**, Universitas Potensi Utama
-- 💼 Posisi: **Frontend Developer**
-- 📍 Lokasi: **Medan, Indonesia**
-- 🌐 Bahasa: ID & EN
-- 📈 6+ Proyek Selesai · 1+ Tahun Belajar · 7+ Teknologi
+### c. Tech Stack (dari halaman Keahlian)
+- JavaScript
+- PostgreSQL
+- Flutter
+- Dart
+- Figma
+- Canva
 
-<br>
+### d. GitHub Stats
+- Stats card + top languages (github-readme-stats)
+- Streak counter (opsional)
 
-## 🛠️ Tech Stack
+### e. Kontak
+- GitHub: [FdliHabibiLubis](https://github.com/FdliHabibiLubis)
+- Instagram: [fdlilbs.23](https://www.instagram.com/fdlilbs.23)
+- Email: habibifadli682@gmail.com
+- Website: [fadlihabibi.my.id](https://www.fadlihabibi.my.id/)
 
-<div align="center">
+## 4. Komponen Teknis
+- Badge: shields.io (style: for-the-badge atau flat)
+- Stats card: github-readme-stats
+- Struktur tabel proyek pakai Markdown table (lebih ringan dari HTML)
+- Opsional: typing SVG untuk tagline animasi di header
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="48" height="48"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="48" height="48"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="48" height="48"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="48" height="48"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="48" height="48"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" title="Canva" alt="Canva" width="48" height="48"/>
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FdliHabibiLubis&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FdliHabibiLubis&layout=compact&theme=default&hide_border=true" width="30%" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=FdliHabibiLubis&theme=default&hide_border=true" width="80%" />
-
-</div>
-
-<br>
-
-## 📫 Kontak
-
-<div align="center">
-
-<a href="https://github.com/FdliHabibiLubis"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.instagram.com/fdlilbs.23"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:habibifadli682@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.fadlihabibi.my.id/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-
-</div>
+## 5. Referensi
+- Website pribadi: https://www.fadlihabibi.my.id/
