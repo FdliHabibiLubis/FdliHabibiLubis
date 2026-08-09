@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:22C55E&height=200&section=header&text=Fadli%20Habibi%20Lubis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:22C55E&height=140&section=header&text=Fadli%20Habibi%20Lubis&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer&descAlignY=62&descSize=15" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Mahasiswa+Rekayasa+Perangkat+Lunak;Frontend+Web+Developer;Membangun+UI+cepat%2C+responsif%2C+ramah+pengguna" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=550&lines=Mahasiswa+Rekayasa+Perangkat+Lunak;Frontend+Web+Developer;Membangun+UI+cepat%2C+responsif%2C+ramah+pengguna" alt="Typing SVG" />
 
-<br><br>
+<br>
 
 <a href="https://www.fadlihabibi.my.id/"><img src="https://img.shields.io/badge/Website-0F766E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:habibifadli682@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -12,17 +12,14 @@
 
 </div>
 
-<br>
-
 ## 🧑‍💻 Tentang Saya
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/typing-cat.gif" />
+<img align="right" width="200" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/typing-cat.gif" />
 
 - 🎓 **Pendidikan:** Rekayasa Perangkat Lunak, Universitas Potensi Utama
 - 💼 **Posisi:** Frontend Developer
 - 📍 **Lokasi:** Medan, Indonesia
-- 🌐 **Bahasa:** ID & EN
-- ⚡ **6+** Proyek Selesai &nbsp;·&nbsp; **1+** Tahun Belajar &nbsp;·&nbsp; **7+** Teknologi
+- ⚡ **6+** Proyek &nbsp;·&nbsp; **1+** Tahun Belajar &nbsp;·&nbsp; **7+** Teknologi
 
 <br clear="right"/>
 
@@ -39,21 +36,14 @@
 
 </div>
 
-<br>
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FdliHabibiLubis&show_icons=true&hide=issues,contribs&hide_rank=true&theme=chartreuse-dark&hide_border=true&count_private=true&cache_seconds=86400" width="60%" />
-
-<br><br>
-
-<img src="https://ghchart.rshah.org/22C55E/FdliHabibiLubis" width="90%" alt="Kalender Kontribusi GitHub" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FdliHabibiLubis&theme=algolia" width="48%" />
+<img src="https://ghchart.rshah.org/22C55E/FdliHabibiLubis" width="48%" alt="Kalender Kontribusi GitHub" />
 
 </div>
-
-<br>
 
 ## 📫 Kontak
 
@@ -64,8 +54,6 @@
 <a href="mailto:habibifadli682@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.fadlihabibi.my.id/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0F766E&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0F766E&height=70&section=footer" />
 
 </div>
