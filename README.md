@@ -45,16 +45,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FdliHabibiLubis&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FdliHabibiLubis&layout=compact&theme=chartreuse-dark&hide_border=true" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=FdliHabibiLubis&show_icons=true&hide=issues,contribs&hide_rank=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="60%" />
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=FdliHabibiLubis&theme=highcontrast&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" width="80%" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FdliHabibiLubis&theme=react-dark&hide_border=true&color=22C55E&line=0F766E" width="90%" />
+<img src="https://ghchart.rshah.org/22C55E/FdliHabibiLubis" width="90%" alt="Kalender Kontribusi GitHub" />
 
 </div>
 
